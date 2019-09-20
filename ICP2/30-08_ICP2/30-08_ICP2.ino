@@ -8,7 +8,7 @@ LiquidCrystal_PCF8574 lcd(0x27);  // set the LCD address to 0x27 for a 16 chars 
 #define SSID "a"     // "SSID-WiFiname" 
 #define PASS "11111111"       // "password"
 #define IP "184.106.153.149"// thingspeak.com ip
-String msg = "GET /update?key=ULUGZSEDJBID7CKZ"; //change it with your api key like "GET /update?key=Your Api Key"
+String msg = "GET /update?key=U1D5PTWLHN47LG36"; //change it with your api key like "GET /update?key=Your Api Key"
 
 //Variables
 float temp;
