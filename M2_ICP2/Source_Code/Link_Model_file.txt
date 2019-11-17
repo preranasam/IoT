@@ -1,0 +1,2 @@
+The trained model can be downloaded from the following link:
+https://drive.google.com/open?id=1RwPxINjuVfR6G_wV_mGwKkiu-WSpt2Bn
